@@ -3,5 +3,6 @@ class Book
 
   end
 
+  attr_reader :title
 
 end
