@@ -5,6 +5,6 @@ class Book
 
   attr_reader :title
 
-  attr_accessor :author
+  attr_accessor :author, :page_count
 
 end
